@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://apiegeeche.weightsandmeasures.org/sitemap.xml
